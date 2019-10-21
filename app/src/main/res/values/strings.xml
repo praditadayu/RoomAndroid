@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidRoomPersistenceCRUD</string>
+    <string name="title_activity_main2">Teacher </string>
+
+    <string name="hint_teacher_name">Teacher name</string>
+    <string name="empty_not_saved_name">Teacher not saved because it is empty.</string>
+
+    <string name="hint_teacher_nip"> Teacher NIP </string>
+    <string name="empty_not_saved_nip">Teacher  not saved because it is empty.</string>
+
+    <string name="hint_teacher_gol">Teacher Gol </string>
+    <string name="empty_not_saved_gol">Teacher  not saved because it is empty.</string>
+
+
+    <string name="button_save">Save</string>
+</resources>
